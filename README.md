@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram:
 
-![Entity Relationship Diagram](./mobileinfo/EntityRelationDiagramMobile.png)
+![Entity Relationship Diagram](./images/EntityRelationDiagramMobile.png)
 
 ## DESIGN STEPS:
 
@@ -37,10 +37,10 @@ class MobileAdmin(admin.ModelAdmin):
 
 ## OUTPUT:
 ### Server side output:
-![Server Side Output](./mobileinfo/serveroutput2.png)
+![Server Side Output](./images2/serveroutput2.png)
 
 ### Client Side Output:
-![Client Side Output](./mobileinfo/clientoutput2.png)
+![Client Side Output](./images/clientoutput2.png)
 
 
 ## RESULT:
